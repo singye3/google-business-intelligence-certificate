@@ -4,6 +4,7 @@
 This repository contains projects and resources from the Foundations of Business Intelligence courses. These courses, part of the Google Business Intelligence Professional Certificate, equip learners with essential skills in data analysis, visualization, and decision-making.
 
 ### Course Details
+![Course Overview](image/course.png)
 
 #### Course 1: Foundations of Business Intelligence
 - **Key Learnings**:
